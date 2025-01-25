@@ -83,6 +83,9 @@ Setup Instructions
 Dataset Information
 The dataset used for this project is available: (https://www.kaggle.com/datasets/gdabhishek/fertilizer-prediction).
 
+Project
+https://fertilizer-prediction-lfso88qf3vy5mcpdhssva3.streamlit.app/
+
 
 Notes
 - Ensure that the input data format matches the expected columns and values for accurate predictions.
