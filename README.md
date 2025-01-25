@@ -80,6 +80,9 @@ Setup Instructions
   python
   model = RandomForestClassifier(n_estimators=100, random_state=42)
 
+Dataset Information
+The dataset used for this project is available: (https://www.kaggle.com/datasets/gdabhishek/fertilizer-prediction).
+
 
 Notes
 - Ensure that the input data format matches the expected columns and values for accurate predictions.
